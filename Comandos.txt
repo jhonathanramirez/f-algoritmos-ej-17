@@ -1,0 +1,36 @@
+comandos github 
+ 1  echo "# f-algoritmos-ej-17" >> README.md
+    2  git init
+    3  git add README.md
+    4  git commit -m "first commit"
+    5  git remote add origin https://github.com/jhonathanramirez/f-algoritmos-ej-17.git
+    6  git push -u origin master
+    7  git config --global user.email "jonatanramirezx_123@hotmail.com"
+    8  git config --global user.name "Jhonathan"
+    9  echo "# f-algoritmos-ej-17" >> README.md
+   10  git init
+   11  git add README.md
+   12  git commit -m "first commit"
+   13  git remote add origin https://github.com/jhonathanramirez/f-algoritmos-ej-17.git
+   14  echo "# f-algoritmos-ej-17" >> README.md
+   15  git init
+   16  git add README.md
+   17  git commit -m "first commit"
+   18  git remote add origin https://github.com/jhonathanramirez/f-algoritmos-ej-17.git
+   19  get push -u origin master
+   20  git push -u origin master
+   21  git push -u origin master
+   22  git push -u origin master
+   23  git status
+   24  git add Principal.txt
+   25  git commit -m -a " mensaje..."
+   26  git commit -m -a"mensaje..."
+   27  git push
+   28  git status
+   29  abrir Principal.txt
+   30  git status
+   31  git push
+   32  git commit -a -m" mensaje..."
+   33  git push
+   34  history
+
