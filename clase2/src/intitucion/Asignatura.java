@@ -10,7 +10,7 @@ package intitucion;
  * @author Usuario
  */
 public class Asignatura {
-    private String nombre;
+ private String nombre;
  private int creditos;
  private int creditos2;
 public void agregar_nombreAsig(String n){
